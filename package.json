@@ -1,0 +1,19 @@
+{
+  "name": "iscroll5-fresh-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangmingkun187/isrcoll5-fresh-demo.git"
+  },
+  "author": "jason yang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangmingkun187/isrcoll5-fresh-demo/issues"
+  },
+  "homepage": "https://github.com/yangmingkun187/isrcoll5-fresh-demo#readme"
+}
